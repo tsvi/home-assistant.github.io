@@ -14,7 +14,7 @@ group :development do
   gem 'sass-embedded', '1.80.4'
   gem 'rubocop', '1.67.0'
   gem 'ruby-lsp', '0.20.1'
-  gem 'rackup', '2.1.0'
+  gem 'rackup', '2.2.0'
 end
 
 group :jekyll_plugins do
